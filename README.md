@@ -39,7 +39,7 @@ A later version may give the user the option to create their own dead ends
 
 **wireframe**
 
-![Deb01](term/images/Deb01.png)
+![Deb01](https://raw.githubusercontent.com/papersix/term/master/Deb_01.png)
 
 
 
