@@ -4,7 +4,7 @@
 (Terminal Prompt / Happy Endings?)
 
 
-An mobile-friendly application to share geo-tagged pictures at specific dead ends
+A mobile-friendly application to share geo-tagged pictures at specific dead ends
 in Brooklyn.  Users will be given directions from their location to the nearest verified dead-end.
 Once at the dead-end users can either post pictures / comments, or be given a few preset options ie: "Jane Doe was here".
 
