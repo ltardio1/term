@@ -39,5 +39,6 @@ A later version may give the user the option to create their own dead ends
 
 **wireframe**
 
-[[ term/Deb_01.png | height = 100px ]]
- ![alt img](term/Deb_01.png) 
+![alt text](term/Deb_01.png)
+
+
