@@ -40,6 +40,8 @@ A later version may give the user the option to create their own dead ends
 **wireframe**
 
 ![Deb01](https://raw.githubusercontent.com/papersix/term/master/Deb_01.png)
-
-
+![Deb02](https://raw.githubusercontent.com/papersix/term/master/Deb_02.png)
+![Deb03](https://raw.githubusercontent.com/papersix/term/master/Deb_03.png)
+![Deb04](https://raw.githubusercontent.com/papersix/term/master/Deb_04.png)
+![Deb05](https://raw.githubusercontent.com/papersix/term/master/Deb_05.png)
 
