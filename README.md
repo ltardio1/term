@@ -1,7 +1,7 @@
 # term
 
 **Dead End Brooklyn**
-(Terminal Prompt / Happy Endings)
+(alt titles: Terminal Prompt / Happy Endings )
 
 
 A mobile-friendly application to share geo-tagged pictures at specific dead end streets
@@ -29,4 +29,11 @@ As a user i should be able to get directions to the nearest dead end street
 
 As a user i should be able to easily grasp what the application does
 
-*MVP
+(*MVP)
+
+**other thoughts**
+
+Perhaps the look and feel of the website can mimic a terminal prompt
+A later version may give the user the option to create their own dead ends
+-- verification of dead end would require a sum total of users (10+) to become active
+
