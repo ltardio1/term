@@ -38,4 +38,6 @@ A later version may give the user the option to create their own dead ends
 -- verification of dead end would require a sum total of users (10+) to become active
 
 **wireframe**
+
+[[ term/Deb_01.png | height = 100px ]]
  ![alt img](term/Deb_01.png) 
