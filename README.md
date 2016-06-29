@@ -21,9 +21,9 @@ As a guest i should be able to view user posts and pictures
 
 *As a user i should be able to create an account
 
-*As a user i should be able to create a post at the dead end
+*As a user i should be able to create a post a comment having reached a dead end
 
-*As a user i should be able to take a picture and link it to my post
+*As a user i should be able to take a picture and include it in my post
 
 As a user i should be able to get directions to the nearest dead end street
 
