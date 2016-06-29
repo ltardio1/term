@@ -37,3 +37,5 @@ Perhaps the look and feel of the website can mimic a terminal prompt
 A later version may give the user the option to create their own dead ends
 -- verification of dead end would require a sum total of users (10+) to become active
 
+**wireframe**
+ ![alt tag](term/Deb_01.png) 
