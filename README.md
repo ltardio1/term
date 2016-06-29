@@ -39,6 +39,6 @@ A later version may give the user the option to create their own dead ends
 
 **wireframe**
 
-![alt text](/term/Deb_01.png)
+![alt text](https://github.com/papersix/term/Deb_01.png)
 
 
